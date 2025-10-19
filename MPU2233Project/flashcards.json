@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "question": "Which of these tajweed rules DO NOT require nasalisation or ghunnah?",
+            "options": ["Idgham bighunnah", "Iqlab", "Ikhfaa", "Izhar"],
+            "answer": "Izhar"
+        },
+        {
+            "question": "Which of these tajweed rules DO require nasalisation or ghunnah?",
+            "options": ["Idgham maalghunnah", "Izhar", "Idgham bilaghunnah"],
+            "answer": "Idgham maalghunnah"
+        },
+        {
+            "question": "Which term means 'to merge'?",
+            "options": ["Idgham", "Ikhfaa", "Tafseer", "Izhar"],
+            "answer": "Idgham"
+        },
+        {
+            "question": "Which waqf is present here? \n وَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّ الْعِزَّةَ لِلَّهِ ",
+            "options": ["Laa Washal", "Lazim", "Ja'iz", "Saktah"],
+            "answer": "Lazim"
+        },
+        {
+            "question": "Which waqf is present here? \n الْحَمْدُ لِلَّهِ الَّذِي أَنزَلَ عَلَى عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَل لَّهُ عِوَجًا ۜ قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+            "options": ["Laa Washal", "Lazim", "Ja'iz", "Saktah"],
+            "answer": "Saktah"
+        },
+        {
+            "question": "Which waqf is present here? \n قُل رَّبِّي أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَاءً ظَاهِرًا",
+            "options": ["Laa Washal", "Waqfu Aula", "Ja'iz", "Saktah"],
+            "answer": "Waqfu Aula"
+        },
+        {
+            "question": "Which qalqalah is the strongest?",
+            "options": ["Kubra", "Akbar", "Sughra"],
+            "answer": "Akbar"
+        },
+        {
+            "question": "Which of the following madd is read with prolongation of 2 harakat?",
+            "options": ["Asli", "Arid Lissukon", "Wajib Muttasil"],
+            "answer": "Asli"
+        },
+        {
+            "question": "Which of these secondary madds is caused by hamza?",
+            "options": ["Lazim", "Arid Lissukon", "Wajib Muttasil"],
+            "answer": "Wajib Muttasil"
+        },
+        {
+            "question": "Which of these secondary madds is caused by a sukon?",
+            "options": ["Lazim", "Jaiz Munfasil", "Wajib Muttasil"],
+            "answer": "Lazim"
+        }
+    ]
+}
